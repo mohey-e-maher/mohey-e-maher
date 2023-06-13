@@ -1,3 +1,4 @@
+<p align="center"><img src="Pictures/MO--LOGO-3.gif" width=15%></p>
 <h1 align="center">HELLO👋, i'm MEGA (mohey⚡)</h1> 
 <h3 align="center">Computer Science student</h3>
 <hr>
