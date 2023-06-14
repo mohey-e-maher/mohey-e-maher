@@ -5,9 +5,11 @@
  
 <p align="center">
 <a> <img src="https://komarev.com/ghpvc/?username=mohey-e-maher&label=Profile%20views&color=0e75b6&style=flat" alt="mohey-e-maher" />
-<a href="https://www.linkedin.com/in/mohey-e-maher/"><img src="https://img.shields.io/badge/-Mohey%20Eldeen%20Maher-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohey-e-maher/"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mohey.e.maher@gamil.com"><img src="https://img.shields.io/badge/-mohey.e.maher@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
+<a href="https://www.linkedin.com/in/mohey-e-maher/" target="_blank"><img src="https://img.shields.io/badge/-mohey maher-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="https://www.instagram.com/mohey_eldeen_/" target="_blank"><img src="https://img.shields.io/badge/-mohey Eldeen maher-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
+<a href="https://twitter.com/mohey_e_maher" target="_blank"><img src="https://img.shields.io/badge/-Mega✨-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
 </a>
 
 <a href="https://twitter.com/mohey_e_maher" target="blank"><img src="https://img.shields.io/twitter/follow/mohey_e_maher?logo=twitter&style=for-the-badge" alt="mohey_e_maher" /></a><br>
