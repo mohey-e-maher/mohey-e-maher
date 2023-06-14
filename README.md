@@ -7,7 +7,12 @@
 - 👀 I’m interested in computer Hardware, Networks, Cyber security, and Many more <br/>
 - 🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
 - 👨🏻‍💻 Currently developing myself in one technology 📱</br>
-- 📫 You can contact me through these socials links 👇🏻  <br><br>
+- 📫 You can contact me through these socials links 👇🏻  <br><be>
+
+<h3 align="left">Contacts:</h3><br><hr>
+- 💬 Ask me about <b>C, C++, problem-solving, HTML, CSS, Java, and MySQL</b><br>
+- 📫 How to reach me <b>Mohey.e.maher@gmail.com</b><br><br>
+
 <p align="center">
 <a> <img src="https://komarev.com/ghpvc/?username=mohey-e-maher&label=Profile%20views&color=0e75b6&style=flat" alt="mohey-e-maher" />
 <a href="https://www.linkedin.com/in/mohey-e-maher/"><img src="https://img.shields.io/badge/-mohey%20maher-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -23,21 +28,6 @@
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 </p>
-
-<h3 align="left">Contacts:</h3>
-
-<p align="left">
-<a href="https://twitter.com/mohey_e_maher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohey_e_maher" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohey-e-maher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohey-e-maher" height="30" width="40" /></a>
-<a href="https://fb.com/mohey.e.maher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohey.e.maher" height="30" width="40" /></a>
-<a href="https://instagram.com/mohey_e_maher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohey_e_maher" height="30" width="40" /></a>
-</p>
-
-
-- 💬 Ask me about **HTML, CSS, Java ,and mysql**
-
-- 📫 How to reach me **Mohey.e.maher@gmail.com**
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Details
 
