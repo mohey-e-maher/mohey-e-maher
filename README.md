@@ -4,9 +4,9 @@
 <hr>
 
 - 👋🏻 Hi, I’m <a href="https://www.linkedin.com/in/mohey-e-maher/">Mohey Eldeen maher</a> ✨🌻 <br/> 
-- 👀 I’m interested in computer Hardware, Networks, Cyber security, and Many more <br/>
-- 🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
-- 👨🏻‍💻 Currently developing myself in one technology 📱</br>
+- 👀 I’m interested in AI, Machine Learning and Data Science <br/>
+- 🌱 Trying to learn new technologies and try to keep myself updated 🤵🏻 <br/>
+- 👨🏻‍💻 Currently developing myself in Ai field 📱</br>
 - 📫 You can contact me through these socials links 👇🏻  <br><be>
 
 My GitHup Content 
