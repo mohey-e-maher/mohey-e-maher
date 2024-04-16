@@ -17,13 +17,12 @@ My GitHup Content
    -  [old projects](https://www.instagram.com/mohey_e_maher)
    -  [Behance](https://www.behance.net/mohey_e_maher)
 
-<h3>+Problem Solving</h3>
+<h3>Problem Solving</h3>
 
    -  [Codeforces](https://codeforces.com/profile/Mega.)
    -  [All tests (General)](https://github.com/mohey-e-maher/Solving_CPP_problems)
  
 <h3 align="left">Contacts:</h3><hr>
-- 💬 Ask me about <b>C, C++, problem-solving, HTML, CSS, Java, and MySQL</b><br>
 - 📫 How to reach me <b>Mohey.e.maher@gmail.com</b><br><br>
 
 <p align="center">
