@@ -51,6 +51,10 @@ My GitHup Content
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Details
+<p align="center">
 
 ![Github Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohey-e-maher&theme=github_dark)
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohey-e-maher&theme=buefy-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
+</p>
