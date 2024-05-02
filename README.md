@@ -1,5 +1,5 @@
-<p align="center"><img src="Pictures/MO--LOGO-3.gif" width=15%></p>
-<h1 align="center">HELLO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, i'm MEGA (mohey⚡)</h1> 
+<p align="center"><img src="Pictures/7.png" width=15%></p>
+<h1 align="center">HELLO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, i'm MEGA <img src="Pictures/MO--LOGO-3.gif" width="40" style="margin-top:30px"></h1> 
 <h3 align="center"><img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="30"> Computer Science student</h3>
 <hr>
 
