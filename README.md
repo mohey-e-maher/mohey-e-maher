@@ -53,7 +53,7 @@ My GitHup Content
 
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Details
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Stats.
 <p align="center">
 
 ![Github Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohey-e-maher&theme=github_dark)
