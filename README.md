@@ -57,7 +57,8 @@ My GitHup Content
 <p align="center">
 
 ![Github Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohey-e-maher&theme=github_dark)
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohey-e-maher&theme=buefy-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohey-e-maher&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohey-e-maher&theme=onedark&title=Commits,Experience,Repo,Followers,PullRequest)](https://github.com/mohey-e-maher/github-profile-trophy)
