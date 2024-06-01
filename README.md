@@ -23,11 +23,12 @@ My GitHup Content
    -  [All tests (General)](https://github.com/mohey-e-maher/Solving_CPP_problems)
  
 <h3 align="left">Contacts:</h3><hr>
-- 📫 How to reach me <b>Mohey.e.maher@gmail.com</b><br><br>
-- 📞 +201289685068
--  Download My Resume
 
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue)](./resume/Mohey%20ELdeen%20Nasr-V2.0-resume.pdf)
+
+- 📫 How to reach me <b><a href="mailto:mohey.e.maher@gmail.com">Mohey Eldeen maher</a></b><br><br>
+- 📞 <a href="wa.me/+201289685068">+20 1289685068</a>
+
 
 <br>
 <br>
