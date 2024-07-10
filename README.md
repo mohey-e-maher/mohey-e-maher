@@ -75,18 +75,3 @@ My GitHup Content
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohey-e-maher&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohey-e-maher&theme=dracula&title=Commits,Experience,Repo,Followers,PullRequest)](https://github.com/mohey-e-maher/github-profile-trophy)
-
-<table>
-<tr>
-    <th align="center">For user accounts</th>
-    <th align="center">For organization accounts</th>
-  </tr>
-  <tr>
-    <td align="center">
-<img alt="" width="400" src="https://github.com/mohey-e-maher/metrics/blob/examples/metrics.classic.svg" alt=""></img>
-</td>
-<td align="center">
-<img alt="" width="400" src="https://github.com/mohey-e-maher/metrics/blob/examples/metrics.organization.svg" alt=""></img>
-</td>
-  </tr>
-</table>
