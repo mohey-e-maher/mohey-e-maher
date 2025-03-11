@@ -4,12 +4,18 @@
 <hr>
 
 - 👋🏻 Hi, I’m <a href="https://www.linkedin.com/in/mohey-e-maher/">Mohey Eldeen maher</a> ✨🌻 <br/> 
-- 👀 I’m interested in AI, Machine Learning and Data Science <br/>
+- 👀 I’m interested in Software developing, UI, and IT field<br/>
 - 🌱 Trying to learn new technologies and try to keep myself updated 🤵🏻 <br/>
-- 👨🏻‍💻 Currently developing myself in Ai field 📱</br>
+- 👨🏻‍💻 Currently developing myself as Back-End Engineer 📱</br>
 - 📫 You can contact me through these socials links 👇🏻  <br><be>
 
-My GitHup Content 
+<h3 align="left">Contacts:</h3><hr>
+
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue)](./resume/Mohey%20ELdeen%20Nasr-V2.0-resume.pdf)
+
+- 📫 How to reach me <b><a href="mailto:mohey.e.maher@gmail.com">Mohey Eldeen maher</a></b><br><br>
+- 📞 Whatsapp <a href="wa.me/+201289685068">+20 1289685068</a>
+<br><br>
 <hr>
 
 <h3>Graphic Design</h3>
@@ -22,16 +28,10 @@ My GitHup Content
    -  [Codeforces](https://codeforces.com/profile/Mega.)
    -  [All tests (General)](https://github.com/mohey-e-maher/Solving_CPP_problems)
  
-<h3 align="left">Contacts:</h3><hr>
-
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue)](./resume/Mohey%20ELdeen%20Nasr-V2.0-resume.pdf)
-
-- 📫 How to reach me <b><a href="mailto:mohey.e.maher@gmail.com">Mohey Eldeen maher</a></b><br><br>
-- 📞 <a href="wa.me/+201289685068">+20 1289685068</a>
 
 
 <br>
-<br>
+
 
 
 <p align="center">
@@ -74,4 +74,4 @@ My GitHup Content
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohey-e-maher&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohey-e-maher&theme=dracula&title=Commits,Experience,Repo,Followers,PullRequest)](https://github.com/mohey-e-maher/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohey-e-maher&theme=juicyfresh&title=Commits,Experience,Repo,Followers,PullRequest)](https://github.com/mohey-e-maher/github-profile-trophy)
