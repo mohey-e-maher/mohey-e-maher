@@ -72,6 +72,6 @@
 ![Github Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohey-e-maher&theme=github_dark)
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohey-e-maher&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mohey-e-maher&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohey-e-maher&theme=juicyfresh&title=Commits,Experience,Repo,Followers,PullRequest)](https://github.com/mohey-e-maher/github-profile-trophy)
