@@ -1,9 +1,9 @@
 <p align="center"><img src="Pictures/9.png" width=100%></p>
-<h1 align="center">HELLO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, i'm Mega <img src="Pictures/MO--LOGO-3.gif" width="40" style="margin-top:30px"></h1> 
-<h3 align="center"><img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="30"> Computer Science student</h3>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, i'm Mega <img src="Pictures/MO--LOGO-3.gif" width="40" style="margin-top:30px"></h1>
+<h3 align="center">  Software Engineer | Graphic Designer</h3>
 <hr>
 
-- 👋🏻 Hi, I’m <a href="https://www.linkedin.com/in/mohey-e-maher/">Mohey Eldeen maher</a> ✨🌻 <br/> 
+- 👋🏻 Hi, I’m <a href="https://www.linkedin.com/in/mohey-e-maher/">Mohey Eldeen maher</a> ✨🌻 <br/>
 - 👀 I’m interested in Software developing, UI, and IT field<br/>
 - 🌱 Trying to learn new technologies and try to keep myself updated 🤵🏻 <br/>
 - 👨🏻‍💻 Currently developing myself as Back-End Engineer 📱</br>
@@ -16,23 +16,20 @@
 - 📫 How to reach me <b><a href="mailto:mohey.e.maher@gmail.com">Mohey Eldeen maher</a></b><br><br>
 - 📞 Whatsapp <a href="wa.me/+201289685068">+20 1289685068</a>
 <br><br>
+
 <hr>
 
 <h3>Graphic Design</h3>
 
-   -  [old projects](https://www.instagram.com/mohey_e_maher)
-   -  [Behance](https://www.behance.net/mohey_e_maher)
+- [old projects](https://www.instagram.com/mohey_e_maher)
+- [Behance](https://www.behance.net/mohey_e_maher)
 
 <h3>Problem Solving</h3>
 
-   -  [Codeforces](https://codeforces.com/profile/Mega.)
-   -  [All tests (General)](https://github.com/mohey-e-maher/Solving_CPP_problems)
- 
-
+- [Codeforces](https://codeforces.com/profile/Mega.)
+- [All tests (General)](https://github.com/mohey-e-maher/Solving_CPP_problems)
 
 <br>
-
-
 
 <p align="center">
 <a> <img src="https://komarev.com/ghpvc/?username=mohey-e-maher&label=Profile%20views&color=0e75b6&style=flat" alt="mohey-e-maher" />
@@ -43,7 +40,9 @@
 </a>
 
 <br><br>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
+
 <br>
 <p align="center">
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg" alt="matplotlib" width="40" height="40"/> </a>
@@ -66,7 +65,8 @@
 
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Stats.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Stats
+
 <p align="center">
 
 ![Github Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohey-e-maher&theme=github_dark)
