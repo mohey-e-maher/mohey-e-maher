@@ -1,5 +1,5 @@
 <p align="center"><img src="Pictures/9.png" width=100%></p>
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, i'm Mega <img src="Pictures/MO--LOGO-3.gif" width="40" style="margin-top:30px"></h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, itz Mega <img src="Pictures/MO--LOGO-3.gif" width="40" style="margin-top:30px"></h1>
 <h3 align="center">  Software Engineer | Graphic Designer</h3>
 <hr>
 
