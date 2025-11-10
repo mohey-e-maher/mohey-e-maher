@@ -1,35 +1,10 @@
 <p align="center"><img src="Pictures/9.png" width=100%></p>
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, itz Mega <img src="Pictures/MO--LOGO-3.gif" width="40" style="margin-top:30px"></h1>
+<p align="center">
+  <img src="Pictures/El_Rahena.gif" width="30%">
+</p>
+
 <h3 align="center">  Software Engineer | Graphic Designer</h3>
-<hr>
-
-- 👋🏻 Hi, I’m <a href="https://www.linkedin.com/in/mohey-e-maher/">Mohey Eldeen maher</a> ✨🌻 <br/>
-- 👀 I’m interested in Software developing, UI, and IT field<br/>
-- 🌱 Trying to learn new technologies and try to keep myself updated 🤵🏻 <br/>
-- 👨🏻‍💻 Currently developing myself as Back-End Engineer 📱</br>
-- 📫 You can contact me through these socials links 👇🏻  <br><be>
-
-<h3 align="left">Contacts:</h3><hr>
-
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue)](./resume/Mohey%20ELdeen%20Nasr-V2.0-resume.pdf)
-
-- 📫 How to reach me <b><a href="mailto:mohey.e.maher@gmail.com">Mohey Eldeen maher</a></b><br><br>
-- 📞 Whatsapp <a href="wa.me/+201289685068">+20 1289685068</a>
-<br><br>
-
-<hr>
-
-<h3>Graphic Design</h3>
-
-- [old projects](https://www.instagram.com/mohey_e_maher)
-- [Behance](https://www.behance.net/mohey_e_maher)
-
-<h3>Problem Solving</h3>
-
-- [Codeforces](https://codeforces.com/profile/Mega.)
-- [All tests (General)](https://github.com/mohey-e-maher/Solving_CPP_problems)
-
-<br>
 
 <p align="center">
 <a> <img src="https://komarev.com/ghpvc/?username=mohey-e-maher&label=Profile%20views&color=0e75b6&style=flat" alt="mohey-e-maher" />
@@ -39,37 +14,66 @@
 <a href="https://twitter.com/mohey_e_maher" target="_blank"><img src="https://img.shields.io/badge/-Mega✨-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
 </a>
 
-<br><br>
+## 🚀 About Me
+
+- 👨‍💻 Back-End Engineer passionate about **server-side development & scalable systems**
+- 🔥 Skilled in **automation, databases, and problem-solving**
+- 🌱 Learning advanced Back-End technologies to grow professionally
+- 🎨 Also a Graphic Designer specializing in **branding & digital visuals**
+
+<h3 align="left">Contacts:</h3><hr>
+
+📬 **Email:** mohey.e.maher@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/mohey-e-maher/  
+📄 **[Download Resume](./resume/Mohey%20ELdeen%20Nasr-V2.0-resume.pdf)**
+<br>
+
+<h3>Graphic Designs</h3><hr>
+
+- [old projects](https://www.instagram.com/mohey_e_maher)
+- [Behance](https://www.behance.net/mohey_e_maher)
+
+<h3>Problem Solving</h3><hr>
+
+- [Codeforces](https://codeforces.com/profile/Mega.)
+- [All tests (General)](https://github.com/mohey-e-maher/Solving_CPP_problems)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
 
 <br>
-<p align="center">
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg" alt="matplotlib" width="40" height="40"/> </a>
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
- <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg" alt="NumPy" width="40" height="40"/> </a>
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/js" target="_blank" rel="noreferrer"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" alt="Js" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/bootstrap/bootstrap_ver.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/bootstrap.svg" alt="Bootstrap" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/color/photoshop.svg" alt="photoshop" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
-
-</p>
+<table>
+<tr>
+	<td><strong>Web Development</strong></td>
+	<td><strong>Design</strong></td>
+</tr>
+<tr>
+		<td><img src= "https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" ></td>
+		<td><img src= "https://skillicons.dev/icons?i=ps,ai,figma&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><strong>Tools</strong></td>
+</tr>
+<tr>
+		<td><img src= "https://skillicons.dev/icons?i=cpp,cs,c,py&theme=dark"></td>
+	<td><img src= "https://skillicons.dev/icons?i=bash,git,github,vscode,visualstudio,md,npm&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Backend</strong></td>
+	<td><strong>OS</strong></td>
+</tr>
+<tr>
+	<td><img src= "https://skillicons.dev/icons?i=nodejs,postman&theme=dark"></td>
+	<td><img src= "https://skillicons.dev/icons?i=linux,windows&theme=dark"></td>
+</tr>
+</table>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Stats
 
 <p align="center">
 
 ![Github Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohey-e-maher&theme=github_dark)
+
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mohey-e-maher&theme=dark&hide_border=true)](https://git.io/streak-stats)
